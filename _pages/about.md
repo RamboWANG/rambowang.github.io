@@ -10,9 +10,9 @@ redirect_from:
 
 I mainly focus on three research directions:
 
-1. Statistical natural language processing, including syntactic parsing, semantic parsing, comparison of NLP models and etc.
+1. Cross validation and statistical sampling techniques, contributing to develop regularized cross-validation and regularized sampling methods and investigate their theoretical properties in machine learning domain.
 
-2. Statistical resampling and sub-sampling techniques, contributing to develop regularized sampling methods and investigate their theoretical properties in machine learning domain.
+2. Statistical natural language processing models, including syntactic parsing, semantic parsing, comparison of NLP models and etc.
 
 3. Program comprehend, including software defects prediction and etc.
 
